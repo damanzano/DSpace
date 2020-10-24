@@ -508,7 +508,7 @@
         <dependency>
             <groupId>org.elasticsearch</groupId>
             <artifactId>elasticsearch</artifactId>
-            <version>1.4.0</version>
+            <version>6.8.13</version>
         </dependency>
 
         <dependency>
@@ -527,7 +527,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>18.0</version>
+            <version>r03</version>
         </dependency>
 
 
