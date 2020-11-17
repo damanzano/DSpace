@@ -623,7 +623,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-s3</artifactId>
-            <version>1.10.26</version>
+            <version>1.11.660</version>
         </dependency>
         <!-- S3 also wanted jackson... -->
         <dependency>
