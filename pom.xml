@@ -21,7 +21,7 @@
         <groupId>org.sonatype.oss</groupId>
         <artifactId>oss-parent</artifactId>
         <version>9</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <prerequisites>
@@ -39,7 +39,7 @@
             Hibernate version pinned to 4.2, 4.3 does not work with the spring version we are currently using
             Upgrading the spring version will make the XMLUI crash
         -->
-        <hibernate.version>4.2.19.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <spring.version>3.2.14.RELEASE</spring.version>
         <!-- 'root.basedir' is the path to the root [dspace-src] dir. It must be redefined by each child POM,
              as it is used to reference the LICENSE_HEADER and *.properties file(s) in that directory. -->
@@ -1460,7 +1460,7 @@
       </developer>
       <developer>
          <name>Jeffrey Trimble</name>
-         <email />
+         <email/>
          <roles>
            <role>commiter</role>
         </roles>
@@ -1497,8 +1497,8 @@
          <name>Pere Villega</name>
          <email>pere.villega@gmail.com</email>
          <url>http://www.perevillega.com</url>
-         <organization />
-         <organizationUrl />
+         <organization/>
+         <organizationUrl/>
          <roles>
             <role>developer</role>
          </roles>
