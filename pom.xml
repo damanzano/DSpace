@@ -21,7 +21,7 @@
         <groupId>org.sonatype.oss</groupId>
         <artifactId>oss-parent</artifactId>
         <version>9</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <prerequisites>
@@ -937,7 +937,7 @@
          <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.3</version>
+            <version>2.7</version>
          </dependency>
          <dependency>
             <groupId>commons-lang</groupId>
@@ -1460,7 +1460,7 @@
       </developer>
       <developer>
          <name>Jeffrey Trimble</name>
-         <email />
+         <email/>
          <roles>
            <role>commiter</role>
         </roles>
@@ -1497,8 +1497,8 @@
          <name>Pere Villega</name>
          <email>pere.villega@gmail.com</email>
          <url>http://www.perevillega.com</url>
-         <organization />
-         <organizationUrl />
+         <organization/>
+         <organizationUrl/>
          <roles>
             <role>developer</role>
          </roles>
